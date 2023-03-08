@@ -6,7 +6,8 @@ O que faremos hoje:
 - [X] Apresentar Git
 - [X] Criar repositório
 - [X] Experimentar com markdown
-- [ ] Subir arquivos
+- [X] Subir arquivos
+- [ ] Mostrar git pelo VSCode
 
 ## Sobre markown
 Títulos, subtítulos etc são criados por cerquilha, ou jogo da velha (#)
