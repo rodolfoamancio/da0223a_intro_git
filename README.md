@@ -3,10 +3,10 @@ Primeiro repositório, curso de análise dedados.
 
 ## Conteúdo
 O que faremos hoje:
-1. Apresentar Git
-2. Criar repositório
-3. Experimentar com markdown
-4. Subir arquivos
+- [X] Apresentar Git
+- [X] Criar repositório
+- [X] Experimentar com markdown
+- [ ] Subir arquivos
 
 ## Sobre markown
 Títulos, subtítulos etc são criados por cerquilha, ou jogo da velha (#)
